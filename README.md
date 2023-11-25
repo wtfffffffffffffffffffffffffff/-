@@ -27,12 +27,12 @@
 ![Task 4](https://github.com/pashtetrus33/pet-management-system/blob/main/Task%204.png)
 
 5. Выложить историю команд в терминале ubuntu
-6. Нарисовать [диаграмму](https://github.com/pashtetrus33/pet-management-system/blob/main/diagram.drawio), в которой есть класс родительский класс, домашние
+6. Нарисовать [диаграмму](https://github.com/wtfffffffffffffffffffffffffff/-/blob/main/diagramm), в которой есть класс родительский класс, домашние
 животные и вьючные животные, в составы которых в случае домашних
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
 войдут: Лошади, верблюды и ослы).
 
-![UML](https://user-images.githubusercontent.com/99810114/221403005-bfe39717-2d41-431d-bc03-f78a1aeb76df.jpg)
+![UML](https://github.com/pashtetrus33/pet-management-system/blob/main/Task%206.png)
 
 7. В подключенном MySQL репозитории создать базу данных “Друзья
 человека”
@@ -248,5 +248,5 @@ LEFT JOIN home_animals ha ON ha.Id = hm.Genus_id;
 ![Program](https://user-images.githubusercontent.com/99810114/221417421-93de1f4c-ad41-4f7e-a45d-edd5ec72f1d3.jpg)
 
      
-![image](https://user-images.githubusercontent.com/99810114/222143283-7ec9e203-2a23-4cf4-81b8-b97a159cdc79.png)
+
 # -
