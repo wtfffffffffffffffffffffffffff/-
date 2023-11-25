@@ -32,8 +32,6 @@
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
 войдут: Лошади, верблюды и ослы).
 
-![UML](https://github.com/pashtetrus33/pet-management-system/blob/main/Task%206.png)
-
 7. В подключенном MySQL репозитории создать базу данных “Друзья
 человека”
 ```sql
@@ -245,7 +243,7 @@ LEFT JOIN home_animals ha ON ha.Id = hm.Genus_id;
 типа счетчик была не в ресурсном try и/или ресурс остался открыт. Значение
 считать в ресурсе try, если при заведении животного заполнены все поля.
 
-![Program](https://user-images.githubusercontent.com/99810114/221417421-93de1f4c-ad41-4f7e-a45d-edd5ec72f1d3.jpg)
+
 
      
 
